@@ -1,4 +1,4 @@
-# 3d-animal-texture
+# Animal-texture
 Add texture to animal. Based on NMR + course-to-fine-3d-animal
 
 How to texture animal:
